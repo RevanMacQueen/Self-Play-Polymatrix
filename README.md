@@ -1,6 +1,6 @@
 # Code For Guarantees for Self-Play in Multiplayer Games via Polymatrix Decomposability
 
-This is the repo for [Guarantees for Self-Play in Multiplayer Games via Polymatrix Decomposability](https://arxiv.org/abs/2310.11518).  
+This is the codebase for [Guarantees for Self-Play in Multiplayer Games via Polymatrix Decomposability](https://arxiv.org/abs/2310.11518).  
 
 ## Installation
 
